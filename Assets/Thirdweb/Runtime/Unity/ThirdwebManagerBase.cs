@@ -225,7 +225,7 @@ namespace Thirdweb.Unity
 
         public static ThirdwebManagerBase Instance { get; protected set; }
 
-        public static readonly string THIRDWEB_UNITY_SDK_VERSION = "5.18.8";
+        public static readonly string THIRDWEB_UNITY_SDK_VERSION = "5.19.0";
 
         protected const string THIRDWEB_AUTO_CONNECT_OPTIONS_KEY = "ThirdwebAutoConnectOptions";
 
